@@ -1,0 +1,1 @@
+<?php /**PATH C:\Users\dell\Desktop\iti_project\example\resources\views/layout.blade.php ENDPATH**/ ?>

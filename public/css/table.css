@@ -1,0 +1,98 @@
+h1{
+    font-size: 30px;
+    color: #fff;
+    text-transform: uppercase;
+    font-weight: 300;
+    text-align: center;
+    margin-bottom: 15px;
+    margin-right: 7%;
+  }
+  table{
+    width:100%;
+    table-layout: fixed;
+  }
+ 
+
+
+input[type=text] {
+  border:none;
+	padding:16px 22px;
+ margin-left: 40%;
+	background:rgba(255, 255, 255, 0.519);
+}
+.sar{
+  background-color: #db164e;
+    color: #fbfbfb;
+    border:none;
+    padding:15px 20px;
+    border-radius:0px;
+    cursor: pointer;
+ 
+}
+
+
+  .tbl-header{
+    background-color: rgba(255, 255, 255, 0.344);
+     width: 80%;
+    margin-left: 10%;
+   }
+  .tbl-content{
+    height:200px;
+    overflow-x:auto;
+    margin-top: 0px
+  }
+  th{
+    padding: 20px 15px;
+    text-align: left;
+    font-weight: 500;
+    font-size: 12px;
+    color: #b70031;
+    text-transform: uppercase;
+    text-align: center;
+  }
+  td{
+    padding: 10px;
+    text-align: left;
+    vertical-align:middle;
+    font-weight: 300;
+    font-size: 12px;
+    color: #ffffff;
+    text-align: center;
+    border-bottom: solid 1px rgba(255,255,255,0.1);
+  }
+  
+  a{
+    background-color: #a1183f;
+    color: #fbfbfb;
+    padding:5px 10px;
+	border-radius:25px;
+    cursor: pointer;
+    text-decoration: none;
+    position: absolute;
+    top: 3%;
+    left: 56%;
+  }
+  /* demo styles */
+  
+  @import url(https://fonts.googleapis.com/css?family=Roboto:400,500,300,700);
+  body{
+    background: -webkit-linear-gradient(left,   #e32293,
+    #f53e4a);
+    background: linear-gradient(to right,    #e32293,
+    #f53e4a);
+    font-family: 'Roboto', sans-serif;
+  }
+  section{
+    margin: 50px;
+  }
+  
+  button{
+    background-color: #db164e;
+    color: #fbfbfb;
+    border:none;
+    padding:10px 10px;
+	border-radius:25px;
+    cursor: pointer;
+
+    }
+  

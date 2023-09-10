@@ -22,7 +22,7 @@
   <div class="mainn3">
     <div class="mai">
         <a href="/" target="../blank">
-            <img src="https://as2.ftcdn.net/v2/jpg/01/05/59/47/1000_F_105594718_QxMtoxQ7dNVVEUCtfm9SRUbzviJbFSCW.jpg" style="width: 1100px; height: 500px;">
+            <img src="imgout/1000_F_105594718_QxMtoxQ7dNVVEUCtfm9SRUbzviJbFSCW.jpg" style="width: 1100px; height: 500px;">
             <div class="mainspann">
               <span>shop now</span>
             </div>
@@ -33,7 +33,7 @@
   <div class="mainn3">
     <div class="mai">
         <a href="showuser" target="../blank" >
-            <img src="https://png.pngtree.com/thumb_back/fh260/background/20230616/pngtree-3d-render-of-a-row-of-pink-shopping-bags-image_3624092.jpg"style="width: 1100px; height: 500px;">
+            <img src="imgout/pngtree-3d-render-of-a-row-of-pink-shopping-bags-image_3624092.jpg"style="width: 1100px; height: 500px;">
             <div class="mainspann">
               <span>my orders</span>
             </div>

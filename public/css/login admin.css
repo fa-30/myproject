@@ -8,7 +8,7 @@ margin: 0;
 box-sizing: border-box;
 }
 body{
-background-color: #080710;
+background-color: #100d13;
 }
 .background{
 width: 430px;
@@ -26,8 +26,8 @@ border-radius: 50%;
 }
 .shape:first-child{
 background: linear-gradient(
-    #ad186f,
-    #f62331
+    #ad188a,
+    #ea3939
 );
 left: -120px;
 top: -90px;
@@ -35,8 +35,8 @@ top: -90px;
 .shape:last-child{
 background: linear-gradient(
     to right,
-    #ff2f7b,
-    #f01952
+    #ad188a,
+    #ea3939
 );
 right: -80px;
 bottom: -80px;
@@ -106,7 +106,7 @@ option{
 button{
 margin-top: 50px;
 width: 100%;
-background-color: #db164e;
+background-color: #e32098;
 color: #080710;
 padding: 15px 0;
 font-size: 18px;

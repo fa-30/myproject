@@ -1,7 +1,7 @@
 body{
 	background-size:cover;
 	color:#6a6f8c;
-    background-color: #080710;
+    background-color: #100d13;
 	font:600 16px/18px 'Open Sans',sans-serif;
     background-repeat: no-repeat
 }
@@ -22,19 +22,19 @@ body{
     }
     .shape:first-child{
     background: linear-gradient(
-        #ad186f,
-        #f62331
+        #ad188a,
+        #ea3939
     );
-    left: -80px;
-    top: -80px;
+    left: -120px;
+    top: -100px;
     }
     .shape:last-child{
     background: linear-gradient(
         to right,
-        #ff2f7b,
-        #f01952
+        #ad188a,
+    #ea3939
     );
-    right: -30px;
+    right: -80px;
     bottom: -80px;
     }
 .login-box{
@@ -104,7 +104,7 @@ font-family: 'Poppins',sans-serif;
 
 .login-snip  .tab{
 	color:#fff;
-	border-color:#c81a69;
+	border-color:#ea3986;
 }
 .login-space{
 	min-height:345px;
@@ -141,7 +141,7 @@ font-family: 'Poppins',sans-serif;
 	margin: 10px;
 }
 .login-space .group .button{
-	background:#db164e;
+	background:#e32098;
 }
 
 *,:after,:before{box-sizing:border-box}
